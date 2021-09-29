@@ -64,7 +64,7 @@ public class Main {
     The following output will be produced:11, 22, 33, 44, 55, 66, 77, 88, 99, 101,
      111, 121, 131, 141, 151, 161, 171, 181, 191,
     */
-        for (int num = 10; num < 200; num++) {
+    /*    for (int num = 10; num < 200; num++) {
             String number = String.valueOf(num);
             if (number.length() == 2) {
                 if (number.charAt(0) == number.charAt(1)) {
@@ -76,7 +76,7 @@ public class Main {
                 }
             }
         }
-
+*/
     }//end main
 }//end class
 
